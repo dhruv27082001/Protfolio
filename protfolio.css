@@ -1,0 +1,101 @@
+/* 
+*{
+    box-sizing: border-box;
+} */
+
+.abc{
+    background-color: lightblue;
+}
+
+.container{
+    max-width: 100%;
+}
+
+
+/* a.nav:hover{
+    
+    background-color:lightblue;
+} */
+
+.logo{
+    text-align: right;
+    float: right;
+}
+.github{
+    margin-right: 10px;
+    height: 30px;
+}
+
+.linkedin{
+    margin-right: 10px;
+    height: 30px;
+}
+.photo{
+    border-radius: 5px;
+    margin-left: 50px;
+    height: 450px;
+    width: 450px;
+}
+
+#arrow{
+    float: right;
+}
+
+.urban{
+    justify-content: center ;
+    margin-left: 550px; 
+}
+
+.urbanf{
+    text-align: center;
+}
+
+
+.badge{
+    display: inline-block;
+    padding: 0.25em 0.4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25rem;
+    transition: color .15s;
+    background: #e0f7fa;
+    color: #4682B4;
+    
+}
+
+a{
+    color: #007bff;
+    text-decoration: none;
+}
+
+.skill{
+    text-align: center;
+}
+
+.frontend{
+    float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+.resume{
+    height: fit-content;
+    width: fit-content;
+    display: block;
+    border: 5px solid black;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.duration{
+    text-shadow:  #999;
+    font-weight: bold;
+}
+
+
+
